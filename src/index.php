@@ -72,6 +72,7 @@ session_start();
         <!-- table of categorywise total -->
         <hr>
     <div>
+        <h2 id="total"> Category wise total</h2>
             <table id="category">
                 <thead>
                     <tr>

@@ -1,15 +1,9 @@
 body {
     color: #333; 
 }
-.wrapper {
-    width: 500px;
-    margin: 10px auto 100px;
-    background-color: #dee6e5;
-    padding: 0px 10px 10px 10px;
-    border-radius: 10px
-}
+
 #income {
-    margin-left: 30%;
+    margin-left: 40%;
     text-align: center;
 }
 #addincome {
@@ -41,7 +35,13 @@ body {
 .wrapper__table{
     margin:auto;
 }
+.wrapper {
 
+    margin: 10px auto 100px;
+    background-color: #dee6e5;
+    padding: 0px 10px 10px 10px;
+    border-radius: 10px
+}
 .wrapper__btn {
     padding: 15px;
     background-color: rgb(13, 224, 214);
@@ -54,4 +54,12 @@ body {
 }
 th, td{
     padding-right: 30px;
+}
+#category{
+    margin-left: 35%;
+    text-align: center;
+}
+#total{
+    margin-left: 2%;
+    text-align: center;     
 }
